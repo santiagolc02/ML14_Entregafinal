@@ -18,8 +18,8 @@ Se trabajó con **dos datasets** que incluyen:
 ## ▶️ Cómo ejecutar
 1. Clona este repositorio:  
    ```bash
-   git clone <url-del-repo>
-   cd <nombre-del-repo>
+   git clone <https://github.com/santiagolc02/ML14_Entregafinal.git>
+   cd <https://github.com/santiagolc02/ML14_Entregafinal.git>
 
 ## 👥 Autores
 
