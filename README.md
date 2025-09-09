@@ -7,8 +7,6 @@ Se trabajó con **dos datasets** que incluyen:
 - Información sobre hábitos de consumo de café.
 - Datos de salud y reseñas textuales relacionadas.
 
-⚠️ **Importante**: Para ejecutar el notebook, es necesario descargar ambos archivos `.csv` que se encuentran dentro de este repositorio y colocarlos en la misma carpeta que el Jupyter Notebook.
-
 ## 🧩 Metodología
 1. **Selección y preparación de datos**.  
 2. **Representación de texto** mediante TF-IDF y Word2Vec.  
@@ -18,15 +16,14 @@ Se trabajó con **dos datasets** que incluyen:
 ## ▶️ Cómo ejecutar
 1. Clona este repositorio:  
    ```bash
-   git clone <https://github.com/santiagolc02/ML14_Entregafinal.git>
-   cd <https://github.com/santiagolc02/ML14_Entregafinal.git>
+   git clone https://github.com/santiagolc02/ML14_Entregafinal.git
+   cd https://github.com/santiagolc02/ML14_Entregafinal.git
+
+⚠️ **Importante**: Para ejecutar el notebook, es necesario tener ambos archivos `.csv` que se encuentran dentro de este repositorio dentro del proyecto
 
 ## 👥 Autores
 
 Regina Reyes Juárez — A01275790
-
 Nadia Salgado Álvarez — A01174509
-
 Gilberto Ángel Camacho Lara — A01613895
-
 Santiago Miguel Lozano Cedillo — A01198114
