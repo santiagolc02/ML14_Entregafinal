@@ -24,6 +24,9 @@ Se trabajó con **dos datasets** que incluyen:
 ## 👥 Autores
 
 Regina Reyes Juárez — A01275790
+
 Nadia Salgado Álvarez — A01174509
+
 Gilberto Ángel Camacho Lara — A01613895
+
 Santiago Miguel Lozano Cedillo — A01198114
